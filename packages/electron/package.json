@@ -1,0 +1,14 @@
+{
+  "name": "@electron-prisma-template/electron",
+  "version": "1.0.0",
+  "description": "My electron app",
+  "main": "main.js",
+  "author": "Caio Lucas",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}

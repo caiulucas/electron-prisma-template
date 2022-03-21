@@ -1,0 +1,13 @@
+{
+  "name": "electron-prisma-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Caio Lucas <lienscarlet@gmail.com>",
+  "license": "MIT"
+}
